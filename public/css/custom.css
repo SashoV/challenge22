@@ -1,0 +1,57 @@
+.thread {
+    border-bottom: 1px solid lightgray;
+    padding: 20px 30px;
+}
+
+.thread img {
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+.thread a {
+    margin-right: 5px;
+}
+
+.deleteThread {
+    display: inline-block;
+}
+
+.deleteBtn {
+    background-color: transparent;
+    color: #3490DC;
+    padding: 0;
+    border: 0;
+    line-height: normal;
+}
+
+.deleteBtn:hover {
+    color: blue;
+}
+
+.card {
+    margin-top: 30px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.createdBy {
+    padding-bottom: 10px;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.padding-b-20 {
+    padding-bottom: 20px;
+}
+
+.text-indent-30 {
+    text-indent: 30px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
